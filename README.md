@@ -1,12 +1,31 @@
-# React + Vite
+# 📝 Most Advance Todo App  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **modern and advanced Todo List application** built with **React, Redux Toolkit, and Tailwind CSS**.  
+This app is not just another Todo list — it’s feature-rich, beautifully designed, and demonstrates **real-world React development practices**.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+✅ **Add, Edit, Delete Todos** – Manage your tasks seamlessly.  
+✅ **Toggle Completion** – Mark tasks as done or pending with a single click.  
+✅ **Persistent Storage** – Saves todos in **LocalStorage**, so your tasks remain even after reload.  
+✅ **Dark/Light Theme Toggle** – Choose your preferred mode, theme saved in LocalStorage.  
+✅ **Responsive UI** – Clean and professional UI with TailwindCSS.  
+✅ **Redux Toolkit State Management** – Centralized state for todos and theme.  
+✅ **Navbar & Footer** – Complete application layout with professional navigation and sticky footer.  
+✅ **Editable Todo Items** – Click edit icon to update, switches to save icon.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ **React 18**  
+- 🎯 **Redux Toolkit** (state management)  
+- 🎨 **Tailwind CSS** (styling)  
+- 💾 **LocalStorage** (data persistence)  
+
+---
+
+## 📂 Project Structure
+
