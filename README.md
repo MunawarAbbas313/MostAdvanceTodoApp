@@ -45,3 +45,25 @@ MostAdvanceTodoApp/
 │── public/
 │── package.json
 │── README.md
+
+
+---
+
+## ⚡ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/MunawarAbbas313/MostAdvanceTodoApp.git
+cd MostAdvanceTodoApp
+
+⭐ Contribute
+
+Want to make this app even better? Fork it, create a branch, and submit a pull request 🚀
+
+git checkout -b feature/AmazingFeature
+git commit -m "Add some AmazingFeature"
+git push origin feature/AmazingFeature
+
+
+
