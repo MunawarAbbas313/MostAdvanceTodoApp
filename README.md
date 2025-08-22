@@ -28,4 +28,20 @@ This app is not just another Todo list — it’s feature-rich, beautifully desi
 ---
 
 ## 📂 Project Structure
-
+MostAdvanceTodoApp/
+│── src/
+│ ├── Components/
+│ │ ├── NavBar.jsx
+│ │ ├── Todoinput.jsx
+│ │ ├── Todolist.jsx
+│ │ ├── Footer.jsx
+│ ├── Redux/
+│ │ ├── TodoSlice.js
+│ │ ├── ThemeSlice.js
+│ │ ├── Store.js
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── App.css
+│── public/
+│── package.json
+│── README.md
